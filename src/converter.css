@@ -1,0 +1,29 @@
+.Converter {
+    width: 100%;
+    padding: 0 15%;
+    box-sizing: border-box;
+    text-align: center;
+    margin: auto;
+  }
+  .Form {
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+  }
+  .Form input,
+  select {
+    padding: 5px;
+    margin: 5px 10px;
+    border-radius: 10px;
+    border: 1px solid rgba(119, 119, 119, 0.5);
+  }
+button {
+    padding: 5px 10px;
+    border-radius: 10px;
+    background: rgb(11, 170, 59);
+    color: white;
+  }
+  
